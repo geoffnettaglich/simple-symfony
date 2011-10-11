@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<report gmt_date="1805092011" unix_date="1304964320.000000"
+	timezone="4" state="" state_name="" country="TC" country_name="United Arab Emirates"
+	localtime="Tue, 10 May 2011 03:00:30 GST" localupdatetime="Mon, 09 May 2011 22:05:20 GST"
+	metric="true" city_name="TEST (local XML)" longitude="55.31" latitude="25.26"
+	tzinfo="Asia/Dubai" name="expanded_forecast">
+	<location city="50039" city_name="TEST (local XML)" latitude="25.26"
+		longitude="55.31" location="TEST (local XML)" state="" state_name=""
+		country="TC" country_name="United Arab Emirates" distance="18.17">
+		<forecast day_sequence="1" day_of_week="3" weekday="Tuesday"
+			daylight="D" date="051011" iso8601="2011-05-10T00:00:00.00+04:00"
+			high_temp="37.02" low_temp="28.97" sky_desc="1" sky="Sunny"
+			precip_desc="*" precip="" temp_desc="12" temp="Extremely hot"
+			air_desc="14" air="Windy" description="Sunny. Extremely hot."
+			uv_index="10" uv="Extreme" wind_speed="36.85" wind_dir="260"
+			wind_short="W" wind_long="West" humidity="31" dew_point="17.84"
+			comfort="39.13" rainfall="*" snowfall="*" precip_prob="0" icon="1"
+			icon_name="sunny" beaufort="6" beaufort_desc="Strong breeze"
+			baro_pressure="1000.00" />
+
+		<forecast day_sequence="2" day_of_week="4" weekday="Wednesday"
+			daylight="D" date="051111" iso8601="2011-05-11T00:00:00.00+04:00"
+			high_temp="35.74" low_temp="28.58" sky_desc="1" sky="Sunny"
+			precip_desc="*" precip="" temp_desc="11" temp="Hot" air_desc="*" air=""
+			description="Sunny. Hot." uv_index="10" uv="Extreme" wind_speed="19.26"
+			wind_dir="290" wind_short="W" wind_long="West" humidity="37"
+			dew_point="19.03" comfort="38.63" rainfall="*" snowfall="*"
+			precip_prob="0" icon="1" icon_name="sunny" beaufort="4"
+			beaufort_desc="Moderate breeze" baro_pressure="1000.00" />
+
+		<forecast day_sequence="3" day_of_week="5" weekday="Thursday"
+			daylight="D" date="051211" iso8601="2011-05-12T00:00:00.00+04:00"
+			high_temp="36.47" low_temp="28.95" sky_desc="1" sky="Sunny"
+			precip_desc="*" precip="" temp_desc="11" temp="Hot" air_desc="*" air=""
+			description="Sunny. Hot." uv_index="10" uv="Extreme" wind_speed="20.61"
+			wind_dir="280" wind_short="W" wind_long="West" humidity="34"
+			dew_point="18.43" comfort="39.10" rainfall="*" snowfall="*"
+			precip_prob="0" icon="1" icon_name="sunny" beaufort="4"
+			beaufort_desc="Moderate breeze" baro_pressure="1000.00" />
+
+		<forecast day_sequence="4" day_of_week="6" weekday="Friday"
+			daylight="D" date="051311" iso8601="2011-05-13T00:00:00.00+04:00"
+			high_temp="36.92" low_temp="29.23" sky_desc="1" sky="Sunny"
+			precip_desc="*" precip="" temp_desc="11" temp="Hot" air_desc="13"
+			air="Breezy" description="Sunny. Hot." uv_index="10" uv="Extreme"
+			wind_speed="27.42" wind_dir="270" wind_short="W" wind_long="West"
+			humidity="37" dew_point="19.58" comfort="40.83" rainfall="*"
+			snowfall="*" precip_prob="0" icon="1" icon_name="sunny" beaufort="4"
+			beaufort_desc="Moderate breeze" baro_pressure="1000.00" />
+
+		<forecast day_sequence="5" day_of_week="7" weekday="Saturday"
+			daylight="D" date="051411" iso8601="2011-05-14T00:00:00.00+04:00"
+			high_temp="36.56" low_temp="28.40" sky_desc="1" sky="Sunny"
+			precip_desc="*" precip="" temp_desc="11" temp="Hot" air_desc="*" air=""
+			description="Sunny. Hot." uv_index="10" uv="Extreme" wind_speed="19.42"
+			wind_dir="290" wind_short="W" wind_long="West" humidity="38"
+			dew_point="19.53" comfort="40.66" rainfall="*" snowfall="*"
+			precip_prob="0" icon="1" icon_name="sunny" beaufort="4"
+			beaufort_desc="Moderate breeze" baro_pressure="1000.00" />
+
+		<forecast day_sequence="6" day_of_week="1" weekday="Sunday"
+			daylight="D" date="051511" iso8601="2011-05-15T00:00:00.00+04:00"
+			high_temp="36.34" low_temp="28.71" sky_desc="1" sky="Sunny"
+			precip_desc="*" precip="" temp_desc="11" temp="Hot" air_desc="*" air=""
+			description="Sunny. Hot." uv_index="10" uv="Extreme" wind_speed="18.46"
+			wind_dir="310" wind_short="NW" wind_long="Northwest" humidity="34"
+			dew_point="18.30" comfort="38.83" rainfall="*" snowfall="*"
+			precip_prob="0" icon="1" icon_name="sunny" beaufort="4"
+			beaufort_desc="Moderate breeze" baro_pressure="1002.00" />
+
+		<forecast day_sequence="7" day_of_week="2" weekday="Monday"
+			daylight="D" date="051611" iso8601="2011-05-16T00:00:00.00+04:00"
+			high_temp="36.52" low_temp="29.48" sky_desc="1" sky="Sunny"
+			precip_desc="*" precip="" temp_desc="11" temp="Hot" air_desc="*" air=""
+			description="Sunny. Hot." uv_index="10" uv="Extreme" wind_speed="20.21"
+			wind_dir="290" wind_short="W" wind_long="West" humidity="36"
+			dew_point="19.16" comfort="39.83" rainfall="*" snowfall="*"
+			precip_prob="0" icon="1" icon_name="sunny" beaufort="4"
+			beaufort_desc="Moderate breeze" baro_pressure="1003.00" />
+
+	</location>
+</report>
