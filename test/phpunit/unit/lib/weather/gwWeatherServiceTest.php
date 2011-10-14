@@ -49,10 +49,14 @@ class unit_gwWeatherServiceTest extends sfPHPUnitBaseTestCase
     $result = $service->climate(55, 25);
     
     $this->checkReport($result);
-    $this->assertEquals('1',    $result['observations'][0]['month']);
-    $this->assertEquals('14.4', $result['observations'][0]['avg_low_temperature']);
-    $this->assertEquals('22.2', $result['observations'][0]['avg_high_temperature']);
-    $this->assertEquals('18.8', $result['observations'][0]['mean_temperature']);
+
+    foreach($result['observations'] as $obs)
+    {
+      $this->assertEquals('1',    $obs['month']);
+      $this->assertEquals('14.4', $obs['avg_low_temperature']);
+      $this->assertEquals('22.2', $obs['avg_high_temperature']);
+      $this->assertEquals('18.8', $obs['mean_temperature']);
+    }
   }
   
   protected function checkReport($result)
